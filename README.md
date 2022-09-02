@@ -1,6 +1,6 @@
 # Awwwards-academy
 
-### This Application is designed to to combine the webGL and HTML worlds.
+### This Application is designed to combine the webGL and HTML worlds.
 
 Tasks
 
